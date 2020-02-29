@@ -1,0 +1,147 @@
+body {
+    font-family: 'Muli';
+    /* background-color:#333a35; */
+    background-color: #333a35;
+}
+
+/* navigation bar starts here */
+navbar {
+    background-color:#333a35;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-between;
+    padding: 10px 500px 10px 20px;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 10px;
+    
+}
+a:hover {
+    color: #eca419;
+  }
+
+.logo {
+      width: 60px;
+  }
+.fa {
+    color: #eca419;
+}
+
+.logo-container {
+    /* background-color: pink; */
+    background-color: pink;
+    
+}
+
+.tab-container {
+    /* background-color: green; */
+    background-color:green;
+    width: 80vw;
+    justify-content: space-evenly;
+    display: flex;
+ 
+
+}
+
+.icon-container {
+    width: 20vw;
+    /* background-color: yellow; */
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+
+
+/* features start here */
+/* .features-container {
+    color: white;
+    flex-direction: row;
+    display: flex;
+}
+.left-container {
+    background-color: red;
+    background-image: url(../image/images-for-hike-project/desert780x477.jpg);
+
+
+}
+.right-container {
+    background-color: blue;
+    background-image: url(),
+
+} */
+
+
+
+/* articles start here */
+
+
+
+/* Gear starts here */
+.gear-container {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+    flex-direction: row;  
+    flex-wrap: wrap;
+    background-color: white;
+    height: 60px;
+    width: 200px;
+    padding: 120px; 
+    margin: 10px; 
+}
+
+.gear-1 {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+    flex-direction: row;  
+    flex-wrap: wrap;
+    background-color: white;
+    height: 60px;
+    width: 200px;
+    padding: 120px; 
+    margin: 10px; 
+}
+
+.gear-2 {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+    flex-direction: row;  
+    flex-wrap: wrap;
+    background-color: white;
+    height: 60px;
+    width: 200px;
+    padding: 120px; 
+    margin: 10px; 
+}
+
+.gear-3 {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    background-color: white;
+    height: 60px;
+    width: 200px;
+    padding: 120px; 
+    margin: 10px; 
+}
+
+
+
+
+
+
+
+
+ 
+
